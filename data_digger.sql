@@ -1,5 +1,4 @@
--- Data Digger: E-Commerce Store
--- MySQL student project
+-- Data Digger
 
 CREATE DATABASE IF NOT EXISTS DataDigger;
 USE DataDigger;
